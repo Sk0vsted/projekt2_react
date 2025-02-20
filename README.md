@@ -43,9 +43,7 @@ $ cd 2sem_projektA
 ### Install dependencies (both frontend and backend folder)
 ```
 $ cd frontend
-$ cd projekt2_react
 $ npm install
-$ cd ..
 $ cd ..
 $ cd backend
 $ npm install
